@@ -17,7 +17,7 @@ namespace WindowsGSM.Plugins
         {
             name = "WindowsGSM.VRising", // WindowsGSM.XXXX
             author = "Addicted Games",
-            description = "WindowsGMS plugin for V Rising Dedicated Server",
+            description = "WindowsGSM plugin for V Rising Dedicated Server",
             version = "1.0",
             url = "https://github.com/Necrodemus/WindowsGSM.VRisingPlugin", // Github repository link (Best practice)
             color = "#6600ff" // Color Hex
